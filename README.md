@@ -4,7 +4,7 @@ This repository contains the code of ACM-MM 2025 paper "HeLo: Heterogeneous Mult
 
 ## Contributions
 
-![Network Architecture]([figs/model.png](https://github.com/kaio-99/HeLo/blob/main/figs/model.png?raw=true))
+![Network Architecture](https://github.com/kaio-99/HeLo/blob/main/figs/model.png)
 
 - Due to differences in heterogeneity across modalities, a cross-attention mechanism is adopted to fuse the physiological data. Then, an optimal transport (OT)-based heterogeneity mining module is devised to effectively fuse the physiological and behavioral representations.
 - For the learning of label correlation, we introduce a learnable label embedding, which is constrained by its learnable label correlation and ground-truth label correlation. Furthermore, the learnable label embeddings and label correlation are integrated through a novel label correlation-driven cross-attention mechanism.
