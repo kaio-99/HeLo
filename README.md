@@ -30,10 +30,19 @@ Training the model by running train.py, and generating the test results via test
 If you use this code, please cite the corresponding paper:
 
 ```
-@article{zheng2025helo,
-  title={HeLo: Heterogeneous Multi-Modal Fusion with Label Correlation for Emotion Distribution Learning},
-  author={Zheng, Chuhang and Tian, Chunwei and Wen, Jie and Zhang, Daoqiang and Zhu, Qi},
-  journal={arXiv preprint arXiv:2507.06821},
-  year={2025}
+@inproceedings{10.1145/3746027.3754852,
+author = {Zheng, Chuhang and Tian, Chunwei and Wen, Jie and Zhang, Daoqiang and Zhu, Qi},
+title = {HeLo: Heterogeneous Multi-Modal Fusion with Label Correlation for Emotion Distribution Learning},
+year = {2025},
+isbn = {9798400720352},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3746027.3754852},
+doi = {10.1145/3746027.3754852},
+abstract = {},
+booktitle = {Proceedings of the 33rd ACM International Conference on Multimedia},
+pages = {5519–5527},
+location = {Dublin, Ireland},
+series = {MM '25}
 }
 ```
